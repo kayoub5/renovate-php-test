@@ -1,0 +1,14 @@
+{
+    "name": "kayoub5/renovate-php-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ayoub Kaanich",
+            "email": "kayoub5@live.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "monolog/monolog": "1.12"
+    }
+}
